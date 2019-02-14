@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ricardo Porras richard.porras@gmail.com @rporras
 
 # THANKS
 
