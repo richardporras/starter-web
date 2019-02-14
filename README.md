@@ -15,3 +15,7 @@ This is the purpose text
 This is the deployment text 
 
 ## How to contribute
+
+### Copyright
+
+2019 Git.Training.
