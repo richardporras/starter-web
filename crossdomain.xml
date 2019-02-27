@@ -12,4 +12,6 @@
     <allow-access-from domain="*" to-ports="*" secure="false"/>
     <allow-http-request-headers-from domain="*" headers="*" secure="false"/>
     -->
+
+    <!-- Just a comment -->
 </cross-domain-policy>
