@@ -18,6 +18,6 @@ This is a text for remote diff example
 
 Please fork this repository and then issue Pull Requests for review. 
 
-### Copyright
+## Copyright
 
 2019 Git.Training. All rights reserved.
