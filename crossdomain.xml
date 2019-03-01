@@ -13,7 +13,5 @@
     <allow-http-request-headers-from domain="*" headers="*" secure="false"/>
     -->
 
-
     <!-- Just a comment -->
-    <!-- Cherry pick me -->
 </cross-domain-policy>
