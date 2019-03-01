@@ -12,7 +12,7 @@ This is the purpose text
 
 ## Deployment
 
-This is the deployment text 
+This is a text for remote diff example
 
 ## How to contribute
 
